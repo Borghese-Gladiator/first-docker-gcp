@@ -18,5 +18,5 @@ app.get('*', (req, res, next) => {
 })
 
 app.listen(PORT, () => {
-  logger.info(`Example app listening at http://localhost:${PORT}`)
+  console.log(`Example app listening at http://localhost:${PORT}`)
 })
