@@ -1,4 +1,5 @@
-Deployed First App to GCP
+# First GCP Docker App 
+Deployed Docker containerized Express (Node.js) app to GCP
 
 ## Process
 - Package a sample web application into a Docker image.
